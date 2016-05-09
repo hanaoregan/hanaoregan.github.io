@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 1em;
+    padding: 20px;
+}
+
+h1 {
+    font-family: Courier, serif;
+    color: #9e86ce;
+    font-size: 1.9em;
+}
+
+h2 {
+    font-family: Courier;
+}
+
+body a {
+    text-decoration: none;
+}
+
+body a:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+body ul {
+    list-style: none;
+}
+
+body ul a {
+    color: black;
+    line-height: 1.2em;
+}

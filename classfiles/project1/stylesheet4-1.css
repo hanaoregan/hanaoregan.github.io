@@ -1,0 +1,61 @@
+* {
+  font-family: Courier;
+}
+
+h1 {
+  letter-spacing: 0.2em;
+}
+
+.one {
+  text-align: center;
+  margin: auto;
+}
+
+.p1 {
+  font-size: 12px;
+  padding-top: 10px;
+}
+
+.space {
+  letter-spacing: 0.5em;
+}
+
+.p2 {
+  font-size: 14px;
+  width: 400px;
+  text-align: left;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.start {
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.middle {
+  line-height: 32px;
+  font-size: 20px;
+}
+
+.end {
+  line-height: 40px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.p3 {
+  line-height: 20px;
+}
+
+h5 {
+  text-transform: uppercase;
+  padding: 10px;
+  margin: 30px;
+  display: inline-block;
+  width: 65px;
+  border: 1px solid black;
+  clear: both;
+  float: left;
+  position: fixed;
+}

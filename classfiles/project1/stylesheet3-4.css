@@ -1,0 +1,15 @@
+h1 {
+  position: fixed;
+  padding: 300px 300px 300px 160px;
+}
+
+p {
+  width: 270px;
+  padding-left: 300px;
+}
+
+h5 {
+  float: right;
+  padding-right: 100px;
+  padding-bottom: 300px;
+}

@@ -1,0 +1,17 @@
+p {
+  display: inline;
+  width: 180px;
+  float: left;
+  padding: 10px;
+}
+
+h1 {
+  clear: both;
+  float: right;
+  padding-top: 200px;
+}
+
+h5 {
+  float: right;
+  clear: both;
+}

@@ -1,0 +1,30 @@
+.p1 {
+  width: 300px;
+  padding-left: 10px;
+}
+
+.p2 {
+  width: 300px;
+  padding-left: 310px;
+}
+
+.p3 {
+  width: 300px;
+  padding-left: 610px;
+}
+
+.p4 {
+  width: 300px;
+  padding-left: 910px;
+}
+
+h2 {
+  float: right;
+  clear: both;
+}
+
+h5 {
+  float: right;
+  clear: both;
+  padding-bottom: 12px;
+}

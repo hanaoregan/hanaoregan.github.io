@@ -1,0 +1,61 @@
+.header {
+  position: fixed;
+  padding-left: 20px;
+  text-align: center;
+}
+
+.intro {
+  padding-top: 60px;
+  float: left;
+  padding-left: 50px;
+}
+
+.p2 {
+  float: right;
+  position: relative;
+  padding-top: 40px;
+  padding-left: 120px;
+}
+
+h3 {
+  float: right;
+  position: fixed;
+  padding-top: 350px;
+  padding-left: 60px;
+}
+
+.p3 {
+  clear: both;
+  padding-left: 10px;
+  padding-top: 60px;
+}
+
+li {
+  padding-left:260px;
+}
+
+.p4 {
+  clear: both;
+  float: right;
+  position: relative;
+  padding-top: 40px;
+  padding-left: 80px;
+  padding-right: 60px;
+}
+
+.p5 {
+  clear: both;
+  float: left;
+  padding-top: 50px;
+}
+
+h2 {
+  padding-top: 220px;
+  padding-left: 100px;
+  position: fixed;
+}
+
+h4 {
+  clear: both;
+  padding-top: 70px;
+}

@@ -1,0 +1,24 @@
+.dots {
+  float: left;
+  padding-left: 300px;
+  position: fixed;
+}
+
+.p1 {
+  padding-top: 100px;
+  padding-left: 340px;
+}
+
+.dots2 {
+  float: left;
+  padding-left: 200px;
+  position: fixed;
+}
+
+h3 {
+  padding-left: 20px;
+}
+
+h2 {
+  padding-left: 240px;
+}
